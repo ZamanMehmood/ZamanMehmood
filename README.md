@@ -4,7 +4,7 @@
 
 I’m a **Full-Stack Engineer 💡 with 5+ years of software development experience** building web applications, backend services, and full-stack systems end to end. I focus on choosing practical tools to ship useful, reliable, production-ready experiences ✨.
 
-<img align="right" alt="Coding animation" width="280" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="center" alt="Coding animation" width="280" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### About Me:
 
@@ -24,7 +24,6 @@ I’ve also led a five-member development team, reviewed pull requests, planned 
 - 🌍 Based in **Lahore, Pakistan**, and open to international remote opportunities and relocation.
 - 🤝 Interested in **Full-Stack Engineering, Backend Engineering, and Technical Leadership** opportunities.
 
-<br clear="both" />
 
 ### My Passions and Pursuits:
 
