@@ -4,7 +4,13 @@
 
 I’m a **Full-Stack Engineer 💡 with 5+ years of software development experience** building web applications, backend services, and full-stack systems end to end. I focus on choosing practical tools to ship useful, reliable, production-ready experiences ✨.
 
-<img align="center" alt="Coding animation" width="280" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"
+    alt="Coding animation"
+    width="400"
+  />
+</p>
 
 ### About Me:
 
